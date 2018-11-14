@@ -1,4 +1,5 @@
 # laughing-eureka
-My firstest repository.
+
+My very first repository.
 
 This is my first edit.
